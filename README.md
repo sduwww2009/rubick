@@ -142,6 +142,21 @@ utools.db.put({
 utools过于强大，目前还没有完全实现其所有功能，不过我们会根据需要不断更新。欢迎小伙伴一起 `pr` 或 `star`
 
 
+## 移动端 AI 助手推荐（类似 CherryStudio）
+
+[CherryStudio](https://github.com/CherryHQ/cherry-studio) 是一款优秀的桌面端 AI 多模型客户端。如果你希望在手机上获得类似的体验，以下移动端应用值得推荐：
+
+| 应用 | 平台 | 特点 |
+|------|------|------|
+| [Poe](https://poe.com) | iOS / Android | 支持多种大语言模型（GPT-4、Claude、Gemini 等），切换方便，有免费套餐 |
+| [ChatGPT](https://openai.com/chatgpt) | iOS / Android | OpenAI 官方应用，支持语音输入，功能完善 |
+| [Claude](https://claude.ai) | iOS / Android | Anthropic 官方应用，擅长长文档处理，注重隐私 |
+| [Monica AI](https://monica.im) | iOS / Android | 多模型支持，集成 AI 写作、翻译、绘图等功能 |
+| [Chatbox AI](https://chatboxai.app) | iOS / Android / 桌面 | 开源，支持自定义 API，界面与 CherryStudio 相近 |
+
+> 💡 如果你已经有 API Key（如 OpenAI、Anthropic、DeepSeek 等），推荐使用 **Chatbox AI**，它支持自定义接入点，与 CherryStudio 的使用方式最为接近，且提供移动端 App。
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/clouDr-f2e/rubick/blob/master/LICENSE) file for details.
 
