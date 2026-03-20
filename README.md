@@ -32,11 +32,27 @@
 - [x] 支持搜索本地已安装 app 或 偏好设置
 - [ ] 支持 Windows
 - [ ] 支持 Linux
+- [ ] 支持 Android / iOS（暂无计划，Rubick 为桌面端工具箱）
 
 
 ![QQ20210705-210753](https://user-images.githubusercontent.com/21073039/124477360-8770f980-ddd6-11eb-8dc3-ba318223697f.gif)
 
 
+
+## 常见问题（FAQ）
+
+**Q：有没有类似 Rubick / uTools / CherryStudio 的软件，可以在安卓手机上使用？**
+
+A：Rubick 基于 [Electron](https://www.electronjs.org/) 开发，是一款**桌面端**工具箱，目前仅支持 macOS，Windows 和 Linux 支持正在开发中。Rubick **不支持** Android / iOS 等移动平台，短期内也暂无移动端适配计划。
+
+如需在 Android 上使用类似功能，可以关注以下社区项目：
+
+- [Termux](https://termux.dev/)：Android 上的终端模拟器，可运行多种命令行工具
+- 在各大应用市场搜索"效率工具"或"启动器"类 App
+
+**Q：Rubick 支持哪些平台？**
+
+A：目前仅正式支持 macOS，Windows 和 Linux 版本正在开发中，移动端（Android / iOS）暂无支持计划。
 
 ## 使用问题
 1. 目前 `Rubick` 插件市场 server 端还没有部署，所以目前看不到插件市场的插件。
